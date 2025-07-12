@@ -1,5 +1,7 @@
 # unsharp_mask_script
 Sirilのコマンドでしか操作できないunsharp maskをGUIで操作できるscriptを作成しました。</br>
+https://siril.org/docs/ の情報を元にしています。
+
 ハイパスフィルターのような挙動を狙って作成したので、デフォルトの半径を小さくしています。
 
 ## 注意点
