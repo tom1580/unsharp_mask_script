@@ -11,10 +11,10 @@ v2へのアップデートです。
 ## 動作環境
 
 siril 1.4.0 RC1 で動作を確認しています。
+</br>
+</br>
 
-
-
-# unsharp_mask_script
+## unsharp_mask_script_v1
 Sirilのコマンドでしか操作できないunsharp maskをGUIで操作できるscriptを作成しました。</br>
 https://siril.org/docs/ の情報を元にしています。
 
