@@ -1,3 +1,19 @@
+# unsharp_mask_script_v2
+Sirilのコマンドでしか操作できないunsharp maskをGUIで操作できるscriptを作成しました。</br>
+https://siril.org/docs/ の情報を元にしています。
+
+v2へのアップデートです。
+
+## 修正点
+1. tkinerを廃止し、PyQt6に変更
+2. プレビュー画面の実装し、V1の注意点を解消しました。
+
+## 動作環境
+
+siril 1.4.0 RC1 で動作を確認しています。
+
+
+
 # unsharp_mask_script
 Sirilのコマンドでしか操作できないunsharp maskをGUIで操作できるscriptを作成しました。</br>
 https://siril.org/docs/ の情報を元にしています。
