@@ -12,8 +12,8 @@ https://siril.org/docs/ の情報を元にしています。
 
 ## 動作環境  
 Siril 1.4.1 で動作を確認しています。
+<br><br>
 
-  
 # v2.1 update  
 
 ## 修正点
