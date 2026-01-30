@@ -3,14 +3,14 @@ Sirilのコマンドでしか操作できないunsharp maskをGUIで操作でき
 https://siril.org/docs/ の情報を元にしています。  
 <br><br>
 
-#v3 update
+# v3 update
 
-##修正点
+## 修正点
 処理中に画像の拡大縮小を行った際、Sirilがクラッシュする問題を修正。  
 問題の修正のため、Sirilのコマンドを使ってunsharp maskを実行する方法から、scipyとnumpyを利用してpython実装に変更しました。  
 この変更によりscipyへの依存が発生しています。不足している場合は自動でインストールします。
 
-##動作環境  
+## 動作環境  
 Siril 1.4.1 で動作を確認しています。
 
   
